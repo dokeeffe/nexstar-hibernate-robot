@@ -80,6 +80,7 @@ void digitalWriteCallback(byte port, int value)
  * Power off the scope
  */
 void powerOff() {
+  delay(5000);//wait 5 sec before powering off. TODO: add a buzzer or some sort of feedback
   digitalWrite(telescopePowerRelayPin, LOW); 
 }
 
@@ -88,7 +89,7 @@ void powerOff() {
  */
 void powerOn() {
   digitalWrite(telescopePowerRelayPin, HIGH); 
-  delay(2000);//wait 2 sec just in case it takes time before 'wake' is available
+  delay(5000);//wait 5 sec just in case it takes time before 'wake' is available
 }
 
 /**
