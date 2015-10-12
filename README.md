@@ -7,4 +7,6 @@ See https://github.com/dokeeffe/nexstar-hibernate-robot/wiki/Building-the-hardwa
 
 ![pic](http://s10.postimg.org/besys9rxl/Screen_Shot_2015_10_09_at_22_05_09.png)
 
+![pic](https://lh3.googleusercontent.com/-8SMeUvQ9cJA/Vhtz3U-KskI/AAAAAAAAHO0/52kvWx4vo4I/s512-Ic42/20151011_220414.jpg)
+
 Celestron have not published the serial commands to hibernate/wake the nexstar telescopes which makes this robot necessary for fully remote operation.
