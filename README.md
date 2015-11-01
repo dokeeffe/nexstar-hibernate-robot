@@ -9,4 +9,4 @@ See https://github.com/dokeeffe/nexstar-hibernate-robot/wiki/Building-the-hardwa
 
 ![pic](https://lh3.googleusercontent.com/-8SMeUvQ9cJA/Vhtz3U-KskI/AAAAAAAAHO0/52kvWx4vo4I/s512-Ic42/20151011_220414.jpg)
 
-Celestron have not published the serial commands to hibernate/wake the nexstar telescopes which makes this robot necessary for fully remote operation.
+The Hibernate/Wake serial commands are not available in versions <5.21 of the handset which makes this robot necessary for fully remote operation for versions 4x of the handset. 
