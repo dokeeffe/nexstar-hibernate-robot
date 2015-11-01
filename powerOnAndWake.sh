@@ -1,4 +1,4 @@
 #!/bin/bash
 
-./nexStarRobot.py /dev/cu.usbserial-AL01C9IS 4
-./nexStarRobot.py /dev/cu.usbserial-AL01C9IS 2
+./nexstarRobot.py /dev/cu.usbserial-AL01C9IS 4
+./nexstarRobot.py /dev/cu.usbserial-AL01C9IS 2
