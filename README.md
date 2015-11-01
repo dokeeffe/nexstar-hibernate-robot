@@ -1,7 +1,7 @@
 # nexstar-hibernate-robot
 
 An arduino robot to hibernate/wake/power-on/power-off a celestron telescope to enable remote operation using indi or ascom.
-It makes use of the fact that it is possible to hibernate the telescope by using 3 buttons on the keypad (enter,menu and up). The robot uses 2 servos buttons to hibernate and wake the telescope. The robot also controls the 12v supply to the scope using a relay.
+It makes use of the fact that it is possible to hibernate the telescope by using 3 buttons on the keypad (enter,menu and up). The robot uses 2 servos placed over the buttons to hibernate and wake the telescope. The robot also controls the 12v supply to the scope using a relay.
 
 See https://github.com/dokeeffe/nexstar-hibernate-robot/wiki/Building-the-hardware for more details
 
