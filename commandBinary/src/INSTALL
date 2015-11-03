@@ -1,0 +1,5 @@
+Create a dir called build at the same leve as the src dir
+cd build
+cmake -DCMAKE_INSTALL_PREFIX=/usr ../src/
+sudo make install
+
